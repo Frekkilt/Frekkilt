@@ -2,4 +2,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frekkilt&show_icons=true&bg_color=0D1117&theme=radical&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frekkilt&show_icons=true&bg_color=0D1117&theme=radical&hide_border=true&count_private=true)
-![Frekkilt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Frekkilt&show_icons=true&bg_color=0D1117&theme=radical&hide_border=true&count_private=true)
+[![Frekkilt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Frekkilt&show_icons=true&bg_color=0D1117&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
